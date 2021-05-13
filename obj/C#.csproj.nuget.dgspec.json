@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programmieren\\C#\\C#.csproj": {}
+    "d:\\Programmieren\\Github\\SoftwareDesignQuiz\\C#.csproj": {}
   },
   "projects": {
-    "D:\\Programmieren\\C#\\C#.csproj": {
+    "d:\\Programmieren\\Github\\SoftwareDesignQuiz\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programmieren\\C#\\C#.csproj",
+        "projectUniqueName": "d:\\Programmieren\\Github\\SoftwareDesignQuiz\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "D:\\Programmieren\\C#\\C#.csproj",
+        "projectPath": "d:\\Programmieren\\Github\\SoftwareDesignQuiz\\C#.csproj",
         "packagesPath": "C:\\Users\\josch\\.nuget\\packages\\",
-        "outputPath": "D:\\Programmieren\\C#\\obj\\",
+        "outputPath": "d:\\Programmieren\\Github\\SoftwareDesignQuiz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josch\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
