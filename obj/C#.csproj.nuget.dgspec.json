@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Programmieren\\Github\\SoftwareDesignQuiz\\C#.csproj": {}
+    "D:\\Programmieren\\Github\\SoftwareDesignQuiz\\C#.csproj": {}
   },
   "projects": {
-    "d:\\Programmieren\\Github\\SoftwareDesignQuiz\\C#.csproj": {
+    "D:\\Programmieren\\Github\\SoftwareDesignQuiz\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Programmieren\\Github\\SoftwareDesignQuiz\\C#.csproj",
+        "projectUniqueName": "D:\\Programmieren\\Github\\SoftwareDesignQuiz\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "d:\\Programmieren\\Github\\SoftwareDesignQuiz\\C#.csproj",
+        "projectPath": "D:\\Programmieren\\Github\\SoftwareDesignQuiz\\C#.csproj",
         "packagesPath": "C:\\Users\\josch\\.nuget\\packages\\",
-        "outputPath": "d:\\Programmieren\\Github\\SoftwareDesignQuiz\\obj\\",
+        "outputPath": "D:\\Programmieren\\Github\\SoftwareDesignQuiz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josch\\AppData\\Roaming\\NuGet\\NuGet.Config",
